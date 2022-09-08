@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(231, 240, 212);
+}
+header{
+    background-color: rgb(166, 231, 15);
+    padding: 30px;
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.main{
+  
+padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    padding: 40px;
+    background-color: gray;
+    box-sizing: border-box;
+    border: 2px solid rgb(93, 11, 11) ;
+    box-shadow: 100px;
+    text-align: center;
+
+}
+.form h4{
+   font-size: 30px;
+}
+.form label{ 
+   font-size: 15px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 600;
+
+   
+   
+}
+.form input{
+    background-color: transparent;
+   font-size: 15px;
+   width: 50%;
+border: none;
+   border-bottom: solid;
+   height: 30px;
+   border-radius: 5px;
+   
+   
+}
+table{
+    text-align: center;
+    border: solid 4px;
+}
+td{
+    border:solid 2px;
+}
+th{
+    border:solid 2px;
+}
